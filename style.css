@@ -88,3 +88,9 @@
   .hide {
     display: none;
   }
+  @media screen and (max-width: 768px) {
+    .msg-container {
+      margin-top: 25vh;
+      margin-bottom: 25vh;
+    }
+  }
